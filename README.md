@@ -1,1 +1,1 @@
-# Reverse-numberin C
+# Reverse-number in C
